@@ -1,4 +1,4 @@
-# Majkyho-poznamk
+# Majkyho-poznamky
 
 cau miro
 
