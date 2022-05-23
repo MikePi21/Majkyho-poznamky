@@ -1,6 +1,6 @@
 # Majkyho-poznamky
 
-cau miro
+cau miro mike
 
 # Ahoj
 ## Ahoj
